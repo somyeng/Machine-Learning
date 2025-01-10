@@ -6,6 +6,7 @@
 
 ## 프로젝트 목록
 ### 1. Linear Models
+![image](https://github.com/user-attachments/assets/ac038119-c1e9-44d6-943c-b86f900f34c2)
 - 소스 코드 : [바로가기]()
 - 사용 언어: Python (Pandas, Numpy, Matplotlib)
 - 사용 모델:
