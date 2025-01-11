@@ -7,20 +7,15 @@
 ## 프로젝트 목록
 ### 1. Linear Models
 ![image](https://github.com/user-attachments/assets/ac038119-c1e9-44d6-943c-b86f900f34c2)
-- 소스 코드 : [바로가기]()
-- 사용 언어: Python (Pandas, Numpy, Matplotlib)
-- 사용 모델:
-  1) 선형 회귀 Linear Regression
-  2) 릿지 회귀 Ridge Regression
-  3) 라쏘 회귀 Lasso Regression
-  4) 신축망 ElasticNet
-  5) 직교 정합 추구 Orthogonal Matchin Pursuit
-  6) 다항 회귀 Polynomial Regression
-- 주요 내용: 캘리포니아 주택 가격 데이터 분석
-- 주요 결과
-  1) 선형 회귀 Linear Regression
-<img width="395" alt="image" src="https://github.com/user-attachments/assets/c29dec88-bbc1-4fa9-a779-67faa10c5826" />
-
+- 소스 코드 : [바로가기](https://github.com/somyeng/Machine-Learning/blob/main/source_code/01.%20Linear%20Model_%EC%BA%98%EB%A6%AC%ED%8F%AC%EB%8B%88%EC%95%84%20%EC%A3%BC%ED%83%9D%20%EA%B0%80%EA%B2%A9.ipynb)
+- 사용 언어: Python (Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy)
+- 사용 모델
+  * 선형 회귀 Linear Regression
+  * 릿지 회귀 Ridge Regression
+  * 라쏘 회귀 Lasso Regression
+  * 신축망 ElasticNet
+  * 직교 정합 추구 Orthogonal Matchin Pursuit
+  * 다항 회귀 Polynomial Regression
 
 ## 기술 스택
 - Python, Pandas, NumPy
