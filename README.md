@@ -18,9 +18,8 @@
   * 다항 회귀 Polynomial Regression
 
 ## 기술 스택
-- Python, Pandas, NumPy
-- Scikit-learn, Matplotlib, Seaborn, Folium
-- SQL, Excel
+- Python
+- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Folium
 
 ## 참고 자료
 - suanlab [바로가기](http://suanlab.com/youtube/ml.html)
